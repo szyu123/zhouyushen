@@ -15,10 +15,10 @@ Research
 On the Theory of Deep Autoencoders (with Dacheng Xiu)
   Working Paper
 
-Can Machines Learn Weak Signals? (with Dacheng Xiu), working paper
-  Winner of the 2024 Bates-White Prize for the Best Paper at SoFiE Annual Conference.
+[Can Machines Learn Weak Signals?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4722678) (with Dacheng Xiu), 
+  Working paper, winner of the 2024 Bates-White Prize for the Best Paper at SoFiE Annual Conference.
 
-Modeling Tail Index With Autoregressive Conditional Pareto Model (with Yu Chen and Ruxin Shi)
+[Modeling Tail Index With Autoregressive Conditional Pareto Model](https://www.tandfonline.com/doi/abs/10.1080/07350015.2020.1832504) (with Yu Chen and Ruxin Shi)
    Journal of Business & Economic Statistics, Volume 40, 2022
 
 
