@@ -1,3 +1,14 @@
+ ---
+ permalink: /
+-title: "About me"
++title: "About me"
+ excerpt: "About me"
+ author_profile: true
+ redirect_from: 
+   - /about/
+   - /about.html
+ ---
+ 
 I am a final-year Ph.D. student in Econometrics and Statistics at the University of Chicago Booth School of Business, where I am advised by Prof. Dacheng Xiu. My research lies in the intersection of econometrics, statistics and machine learning, with a focus on providing theoretical guarantees for applying the machine learning methods in the field of economics and finance.
 
 Research
