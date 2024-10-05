@@ -11,8 +11,11 @@ I am a final-year Ph.D. student in Econometrics and Statistics at the University
 
 Research
 ======
+RNNs as a Remedy for Nonlinear Time Series Modeling (with Xiao Chen, Yu Chen, Dacheng Xiu)
+  <span style="color:gray;">Coming Soon</span>
+
 On the Theory of Deep Autoencoders (with Dacheng Xiu)  
-  <span style="color:gray;">Working Paper</span>
+  <span style="color:gray;">Coming Soon</span>
 
 [Can Machines Learn Weak Signals?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4722678) (with Dacheng Xiu),  
   <span style="color:gray;">Working paper, winner of the 2024 Bates-White Prize for the Best Paper at SoFiE Annual Conference.</span>
