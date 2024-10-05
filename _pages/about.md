@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student in Econometrics and Statistics at the University of Chicago Booth School of Business, where I am advised by [Prof. Dacheng Xiu](https://dachxiu.chicagobooth.edu/). My research lies in the intersection of econometrics, statistics, and machine learning, with a focus on providing theoretical guarantees for applying machine learning methods in the field of economics and finance.
+I am a final-year Ph.D. student in Econometrics and Statistics at the University of Chicago Booth School of Business, where I am advised by [Prof. Dacheng Xiu](https://dachxiu.chicagobooth.edu/). Prior to UChicago, I obtained a B.S. in Statistics from the School of the Gifted Young, University of Science and Technology of China in 2020. My research lies in the intersection of econometrics, statistics, and machine learning, with a focus on providing theoretical guarantees for applying machine learning methods in the field of economics and finance.
+
+**Email**: zshen10@chicagobooth.edu
 
 ## Research
 **RNNs as a Remedy for Nonlinear Time Series Modeling** (with Xiao Chen, Yu Chen, and Dacheng Xiu)  
