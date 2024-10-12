@@ -11,7 +11,7 @@ I am a final-year Ph.D. student in Econometrics and Statistics at the University
 
 **Email**: zshen10@chicagobooth.edu
 
-**[Download CV](CV.pdf)** 
+**[Download CV](pages/CV.pdf)** 
 
 ## Research
 **RNNs as a Remedy for Nonlinear Time Series Modeling** (with Xiao Chen, Yu Chen, and Dacheng Xiu)  
