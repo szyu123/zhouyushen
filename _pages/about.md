@@ -26,7 +26,7 @@ Recurrent Neural Networks (RNNs) represent a class of artificial neural networks
 
 Autoencoders are pivotal in unsupervised machine learning, widely employed for dimension reduction, feature learning, and signal denoising. This study provides non-asymptotic guarantees for deep autoencoders within a nonlinear factor model framework. We demonstrate that deep autoencoders can effectively retrieve common components from model inputs. 
 The associated error comprises a component that diminishes with increasing dimensionality---akin to the `blessings of dimensionality' observed in linear factor models---and another component that vanishes with an increasing sample size at the optimal nonparametric regression rate, as if the factors were directly observed. Furthermore, we show that the extracted factors converge to the true latent factors, albeit through a functional transformation. 
-We conclude by showcasing three economic applications of autoencoders: nowcasting GDP growth, pricing the cross-section of asset returns, and program evaluation.
+
 
 ---
 
