@@ -14,7 +14,7 @@ I am a final-year Ph.D. student in Econometrics and Statistics at the University
 **[Download CV](_pages/CV.pdf)** 
 
 ## Research
-**RNNs as a Remedy for Nonlinear Time Series Modeling** (with Xiao Chen, Yu Chen, and Dacheng Xiu)  
+**On the Theory of RNNs** (with Xiao Chen, Yu Chen, and Dacheng Xiu)  
 <span style="color:gray;">Coming Soon</span>
 
 **On the Theory of Deep Autoencoders** (with Dacheng Xiu)  
