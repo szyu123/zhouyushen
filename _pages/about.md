@@ -18,7 +18,7 @@ Machine Learning, High Dimensional Statistics, Time-series Econometrics, Financi
 
 ## Working Paper
 
-**[On the Theory of Deep Autoencoders](_pages/Autoencoder.pdf)** (with Dacheng Xiu)  
+**[Deep Autoencoders for Nonlinear Factor Models: Theory and Applications](_pages/Autoencoder.pdf)** (with Dacheng Xiu)  
 <span style="color:gray;">Working paper</span>
 
 Abstract: Autoencoders are neural networks widely used in unsupervised learning for dimensionality reduction and feature extraction. This paper provides non-asymptotic guarantees for deep autoencoders within a nonlinear factor model, showing they can effectively extract latent components with errors that diminish with increasing dimensionality and sample size. The extracted factors converge to the true latent factors, up to a functional transformation. We extend these results to supervised autoencoders, supporting their use in factor-augmented prediction and structured matrix completion. Finally, we illustrate the practical value of autoencoders in macroeconomic forecasting, asset return prediction, and noise reduction for causal analysis.
