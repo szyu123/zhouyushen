@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Assistant Professor at Peking University’s Guanghua School of Management. I received my Ph.D. in 2025 from the University of Chicago Booth School of Business, where I am advised by [Prof. Dacheng Xiu](https://dachxiu.chicagobooth.edu/). Prior to UChicago, I obtained a B.S. in Statistics from University of Science and Technology of China in 2020. My research lies in the intersection of econometrics, statistics, and machine learning, with a focus on addressing the methodological and theoretical challenges of applying machine learning techniques in economic contexts.
 
-**Email**: shenzhouyu@gsm.pke.edu.cn
+**Email**: shenzhouyu@gsm.pku.edu.cn
 
 **[Download CV](_pages/CV.pdf)** 
 
